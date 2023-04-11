@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash -xr
 AdminPass="$1"
 User="$2"
 date=$(date "+%Y-%m-%d")
