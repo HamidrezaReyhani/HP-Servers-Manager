@@ -1,1 +1,0 @@
-vless://0782535a-ba3d-46f2-f85e-1f9fb3615504@tosantech.com:80?path=%2F&security=none&encryption=none&type=ws#erfan-vp
